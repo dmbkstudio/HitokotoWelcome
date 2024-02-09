@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "tooth": "github.com/dmbkstudio/HitokotoWelcome",
+  "version": "0.1.2",
+  "info": {
+    "name": "进服一言",
+    "description": "一个简单的进服欢迎插件",
+    "source": "github.com/dmbkstudio/HitokotoWelcome",
+    "author": "Diamond Block Studio(dmbkstudio)",
+    "tags": [
+      "plugin",
+      "lse",
+      "welcome"
+    ]
+  },
+  "prerequisites": {}
+}
