@@ -16,10 +16,10 @@
   "prerequisites": {},
   "files": {
     "place": [
-        {
-            "src": "HitokotoWelcome/*",
-            "dest": "plugins/HitokotoWelcome"
-        }
+      {
+        "src": "HitokotoWelcome/*",
+        "dest": "plugins/HitokotoWelcome"
+      }
     ]
-}
+  }
 }
