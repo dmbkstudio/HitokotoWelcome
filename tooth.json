@@ -13,5 +13,13 @@
       "welcome"
     ]
   },
-  "prerequisites": {}
+  "prerequisites": {},
+  "files": {
+    "place": [
+        {
+            "src": "HitokotoWelcome/*",
+            "dest": "plugins/HitokotoWelcome"
+        }
+    ]
+}
 }
